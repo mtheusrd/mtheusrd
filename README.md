@@ -1,12 +1,11 @@
-## Hey, bro! 🤘🏽 🤙🏽
+## Hey bro! 🤘🏽 🤙🏽
 
-Sou o Matheus, tenho 24 anos. Nasci no Brasil e atualmente residindo em Portugal.<br /><br /> Sou mais um apaixonado por Tecnologia e estudo TI desde meus 11 anos e estou finalizando a graduação em Análise e Desenv. de Sistemas.
-Hoje trabalho como Técnico de Suporte e tenho me especializado em Programação, mais especificamente nas linguagens C# e Python, por enquanto... 
+I'm Matheus, I'm 24 years old. I was born in Brazil and currently live in Portugal.<br /><br /> I am more passionate about Technology and I have studied IT since I was 11 years old and I am finishing my bacharel in Analysis and Development of Systems.
+Today I work as a Support Technician and I have specialized in Programming, more specifically in C# and Python.
 
-Aqui tenho alguns repositórios, fique a vontade para usar à vontade ✍🏽
+Here I have some repositories, feel free to use them ✍🏽
 
-- Para me conhecer melhor, acesse meu [LinkedIn](https://www.linkedin.com/in/mtheusrd).
-- Deseja entrar em contacto comigo? Use meu [E-mail](mailto:mtheusrd1@gmail.com).
+- To get to know me better, visit my [LinkedIn](https://www.linkedin.com/in/mtheusrd).
+- If you want to contact me, use my [Email](mailto:mtheusrd1@gmail.com).
 
-💬 Uma frase que me inspira todos os dias: NEVER GIVE UP! (NUNCA DESISTA!) 🤜🏽🤛🏽
-
+💬 A phrase that inspires me every day: NEVER GIVE UP! 🤜🏽🤛🏽
