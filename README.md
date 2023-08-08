@@ -1,9 +1,6 @@
 ## Hey bro! 🤘🏽 🤙🏽
 
-I'm Matheus, I'm 24 years old. I was born in Brazil and currently live in Portugal.<br /><br /> I am more passionate about Technology and I have studied IT since I was 11 years old and I am finishing my bacharel in Analysis and Development of Systems.
-Today I work as a Support Technician and I have specialized in Programming, more specifically in C# and Python.
-
-Here I have some repositories, feel free to use them ✍🏽
+🚀 Exploring the Intersection of Code and Creativity 🌟 | Brazilian 🇧🇷 in Portugal 🇵🇹 | Tech Enthusiast since 11 🌐 | Turning Algorithms into Art | 🎓 Completing degree in Computer Engineering | 💻 Support Technician by day, C# and Python Developer by night | Check out my repos below and join the coding journey! 🚴‍♂️📚🎨
 
 - To get to know me better, visit my [LinkedIn](https://www.linkedin.com/in/mtheusrd).
 - If you want to contact me, use my [Email](mailto:mtheusrd1@gmail.com).
